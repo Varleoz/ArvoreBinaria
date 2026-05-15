@@ -1,7 +1,7 @@
 public class No{
-    private int x;
-    private No esq;
-    private No dir;
+     int x;
+     No esq;
+     No dir;
 
     public No(int x) {
         this.x = x;
